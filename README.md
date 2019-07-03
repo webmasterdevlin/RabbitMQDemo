@@ -1,9 +1,10 @@
 # RabbitMQ for DotNet Developers
 
-    - You need Erlang to run RabbitMQ, go here [erlang](https://www.erlang.org/downloads)
-    - You would also need RabbitMQ Server, download and install here [RabbitMQ](https://www.rabbitmq.com/download.html)
-    - You can go to this [RabbitMQ tutorials](https://www.rabbitmq.com/getstarted.html) to see the whole tutorial
-  
+   - You need Erlang to run RabbitMQ, go here [erlang](https://www.erlang.org/downloads)
+   - You would also need RabbitMQ Server, download and install here [RabbitMQ](https://www.rabbitmq.com/download.html)
+   - You can go to this [RabbitMQ tutorials](https://www.rabbitmq.com/getstarted.html) to see the whole tutorial
+
+
 ## Set Environment Variables
 
 | VARIABLE | VALUE |
