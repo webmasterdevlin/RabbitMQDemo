@@ -21,13 +21,20 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmitLogDirect", "EmitLogDir
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReceiveLogsDirect", "ReceiveLogsDirect\ReceiveLogsDirect.csproj", "{338F3753-522E-478F-B67D-A8D55D3908EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmitLogTopic", "EmitLogTopic\EmitLogTopic.csproj", "{F2AFBF14-19EF-4A15-8738-952F7FEE5793}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmitLogTopic", "EmitLogTopic\EmitLogTopic.csproj", "{F2AFBF14-19EF-4A15-8738-952F7FEE5793}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiveLogsTopic", "ReceiveLogsTopic\ReceiveLogsTopic.csproj", "{EB1275D8-B361-4A3F-B733-7BEA8BCD7A57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReceiveLogsTopic", "ReceiveLogsTopic\ReceiveLogsTopic.csproj", "{EB1275D8-B361-4A3F-B733-7BEA8BCD7A57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPCClient", "RCPClient\RPCClient.csproj", "{96C7E1BF-D376-4922-AD09-46E05E1B80BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPCClient", "RCPClient\RPCClient.csproj", "{96C7E1BF-D376-4922-AD09-46E05E1B80BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPCServer", "RCPServer\RPCServer.csproj", "{19EA79E9-2586-4DF8-83A4-6478A7BB88FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPCServer", "RCPServer\RPCServer.csproj", "{19EA79E9-2586-4DF8-83A4-6478A7BB88FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DFAC8E05-8F71-4725-828D-722EC99E349E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		LICENSE.md = LICENSE.md
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
